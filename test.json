@@ -1,0 +1,18 @@
+{
+    "success": true,
+    "info": "ok",
+    "data": [
+        {
+            "id": 128,
+            "name": "name1"
+        },
+        {
+            "id": 228,
+            "name": "name2"
+        },
+                {
+            "id": 238,
+            "name": "name3"
+        }
+    ]
+}
